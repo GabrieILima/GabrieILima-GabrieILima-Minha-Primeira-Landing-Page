@@ -40,3 +40,6 @@ Para utilizar este código:
 
 ## Créditos
 Este código foi desenvolvido para demonstrar técnicas de estilização utilizando CSS para um layout responsivo e visualmente atraente.
+
+##Link para Verificação do Resultado
+https://gabrieilima.github.io/GabrieILima-GabrieILima-Minha-Primeira-Landing-Page/
